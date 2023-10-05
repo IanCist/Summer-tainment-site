@@ -1,0 +1,21 @@
+.text-center {
+    font-weight: lighter;
+    font-family: "number-five-smooth", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.summer {
+    font-weight: bold;
+}
+
+.description {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bgCustom{
+    background-image: url("/imgs/IMG_6104.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+}

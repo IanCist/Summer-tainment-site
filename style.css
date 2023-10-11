@@ -39,3 +39,27 @@ width: 40px;
 height: fit-content;
 width: fit-content;
 }
+
+div.container {
+    text-align: center;
+  }
+  
+  .list {
+    display: inline-block;
+    text-align: left;
+    padding-top: 50px;
+    font-size: x-large;
+    font-weight: bold;
+  }
+  .takeaway {
+    font-size: x-large;
+    padding-bottom: 20px;
+    font-weight: bolder;
+  }
+
+  .summary {
+    font-weight: bold;
+    padding-top: 20px;
+    font-size: large;
+    color: white;
+  }
